@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    	<meta charset="utf-8">
+    	<meta name="keywords" content="Potfolio, c, Sabir, Sabir Hakro">
+    	<meta name="description" content="I love to code in python and in Javascript.">
+
+		<title>Sabir Hakro </title>
+		
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="stylecss.css">
+		<!-- external fonts-->
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
+
+		<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+</head>
+
+<body>
+
+
+	<div id="container">
+	<!-- START HERE --> 
+	<a href="C:\Users\sabir\Desktop\One Month Course\One page Portfolio\index.html">
+	<img id="profile" src="images/profile.png" alt="profile pic" width="200px" height="240px" >
+	</a>>
+
+	<h1> Sabir Hakro </h1>
+	<h2>Deep Learning Engineer</h2>
+	<p>	
+    I am seeking a challenging position in Python, Machine Learning / Deep Learning in the organization that offers professional growth and ample opportunity to learn.</p>
+    <p>
+	Currently I am in the final year of undergraduate computer systems engineering and I am also graduated from Udacity <a href="https://confirm.udacity.com/HGT23A7R">deep learning Nanodegree</a>  that I recieved as a scholarship.</p>
+	<p> I have worked with many deep learning architectures such as ANN, RNN, LSTMs, CNN , GANs and Reinforcement Learning.</p> 
+	<p>I have also worked on deployment projects using AWS sagemaker.</p>
+    <a href="https://twitter.com/Sabiral58884026" target="blank">
+	<img src="images/twitter-icon.png" alt="Twitter">
+	</a>
+	
+	<a href="https://www.facebook.com/sabirali.hakro.52" target="blank">
+	<img src="images/social-facebook-box-blue-icon.png" alt="facebook">
+	</a>
+	
+	
+	<a href="https://github.com/hakrosabir" target="blank">
+        <img src="images/github-profile.png" alt="github">
+        </a>
+    
+	<a href="https://www.linkedin.com/in/sabirhakro/" target="blank">
+        <img src="images/linkedin-profile.png" alt="linkedin">
+        </a>
+                
+    
+	<!-- END HERE --> 
+	</div><!-- #container -->
+	
+
+</body>
+</html>
+
+
+
+
